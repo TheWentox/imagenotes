@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageNotes</string>
+    <string name="save_note">Save Note</string>
+</resources>
